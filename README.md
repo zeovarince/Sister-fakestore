@@ -1,4 +1,4 @@
-# Toko Online Terdistribusi
+# Implementasi Toko Online dengan Sistem Terdistribusi
 > Implementasi sederhana sistem terdistribusi berbasis studi kasus Toko Online menggunakan RPC, RMI, dan REST API.
 
 **Mata Kuliah:** Sistem Terdistribusi (IF2228) — Universitas Trunojoyo Madura  
