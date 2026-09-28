@@ -17,7 +17,7 @@ RMI_HOST = "0.0.0.0"       # bind ke semua interface agar bisa diakses LAN
 RMI_PORT = 6002
 
 # IP dan port Server 4 (Riel) — Data Server
-SERVER4_HOST = "192.168.1.14"   # <-- ganti sesuai IP laptop Riel
+SERVER4_HOST = "10.5.6.214"   # <-- IP laptop Riel (Server 4)
 SERVER4_PORT = 6004
 SERVER4_URL  = f"http://{SERVER4_HOST}:{SERVER4_PORT}"
 # ============================================================

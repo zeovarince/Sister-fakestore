@@ -10,7 +10,7 @@ import requests
 # Change SERVER4_HOST to the LAN address of the Data Server.
 RPC_HOST = "0.0.0.0"
 RPC_PORT = 6001
-SERVER4_HOST = "192.168.1.14"
+SERVER4_HOST = "10.5.6.214"
 SERVER4_PORT = 6004
 SERVER4_URL = f"http://{SERVER4_HOST}:{SERVER4_PORT}"
 SERVER4_TIMEOUT = 5
